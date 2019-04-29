@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 1cdc9972d0fae544788b81429137a60b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3-
+    100002: 3-1
+    100004: 3-1_nei
+    100006: 3-2
+    100008: 3-2_nei
+    100010: 3-3
+    100012: 3-3_nei
+    100014: 3-4
+    100016: 3-4_nei
+    100018: 3-6_nei
+    100020: 3-7
+    100022: 3-7_nei
+    100024: Object132
+    100026: Object136
+    100028: SignPoint028
+    100030: SignPoint030
+    100032: SignPoint031
+    100034: SignPoint032
+    100036: SignPoint033
+    100038: //RootNode
+    400000: 3-
+    400002: 3-1
+    400004: 3-1_nei
+    400006: 3-2
+    400008: 3-2_nei
+    400010: 3-3
+    400012: 3-3_nei
+    400014: 3-4
+    400016: 3-4_nei
+    400018: 3-6_nei
+    400020: 3-7
+    400022: 3-7_nei
+    400024: Object132
+    400026: Object136
+    400028: SignPoint028
+    400030: SignPoint030
+    400032: SignPoint031
+    400034: SignPoint032
+    400036: SignPoint033
+    400038: //RootNode
+    2100000: 20 - Default
+    2100002: 19 - Default
+    2300000: 3-
+    2300002: 3-1
+    2300004: 3-1_nei
+    2300006: 3-2
+    2300008: 3-2_nei
+    2300010: 3-3
+    2300012: 3-3_nei
+    2300014: 3-4
+    2300016: 3-4_nei
+    2300018: 3-6_nei
+    2300020: 3-7
+    2300022: 3-7_nei
+    2300024: Object132
+    2300026: Object136
+    3300000: 3-
+    3300002: 3-1
+    3300004: 3-1_nei
+    3300006: 3-2
+    3300008: 3-2_nei
+    3300010: 3-3
+    3300012: 3-3_nei
+    3300014: 3-4
+    3300016: 3-4_nei
+    3300018: 3-6_nei
+    3300020: 3-7
+    3300022: 3-7_nei
+    3300024: Object132
+    3300026: Object136
+    4300000: 3-4
+    4300002: 3-
+    4300004: 3-1
+    4300006: 3-3
+    4300008: 3-2
+    4300010: 3-7
+    4300012: 3-4_nei
+    4300014: 3-7_nei
+    4300016: 3-1_nei
+    4300018: 3-6_nei
+    4300020: 3-3_nei
+    4300022: 3-2_nei
+    4300024: Object132
+    4300026: Object136
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
